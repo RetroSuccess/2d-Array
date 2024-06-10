@@ -1,0 +1,16 @@
+C:\Users\ZaiyaanJattiem\source\repos\2d Array\bin\Debug\net8.0-windows\2d Array.exe
+C:\Users\ZaiyaanJattiem\source\repos\2d Array\bin\Debug\net8.0-windows\2d Array.deps.json
+C:\Users\ZaiyaanJattiem\source\repos\2d Array\bin\Debug\net8.0-windows\2d Array.runtimeconfig.json
+C:\Users\ZaiyaanJattiem\source\repos\2d Array\bin\Debug\net8.0-windows\2d Array.dll
+C:\Users\ZaiyaanJattiem\source\repos\2d Array\bin\Debug\net8.0-windows\2d Array.pdb
+C:\Users\ZaiyaanJattiem\source\repos\2d Array\obj\Debug\net8.0-windows\_2d_Array.Form1.resources
+C:\Users\ZaiyaanJattiem\source\repos\2d Array\obj\Debug\net8.0-windows\2d Array.vbproj.GenerateResource.cache
+C:\Users\ZaiyaanJattiem\source\repos\2d Array\obj\Debug\net8.0-windows\2d Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZaiyaanJattiem\source\repos\2d Array\obj\Debug\net8.0-windows\2d Array.AssemblyInfoInputs.cache
+C:\Users\ZaiyaanJattiem\source\repos\2d Array\obj\Debug\net8.0-windows\2d Array.AssemblyInfo.vb
+C:\Users\ZaiyaanJattiem\source\repos\2d Array\obj\Debug\net8.0-windows\2d Array.vbproj.CoreCompileInputs.cache
+C:\Users\ZaiyaanJattiem\source\repos\2d Array\obj\Debug\net8.0-windows\2d Array.dll
+C:\Users\ZaiyaanJattiem\source\repos\2d Array\obj\Debug\net8.0-windows\refint\2d Array.dll
+C:\Users\ZaiyaanJattiem\source\repos\2d Array\obj\Debug\net8.0-windows\2d Array.pdb
+C:\Users\ZaiyaanJattiem\source\repos\2d Array\obj\Debug\net8.0-windows\2d Array.genruntimeconfig.cache
+C:\Users\ZaiyaanJattiem\source\repos\2d Array\obj\Debug\net8.0-windows\ref\2d Array.dll
